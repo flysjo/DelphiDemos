@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.938,E:\Delphi\JSONDemo\Server\MainUnit.dfm=C:\Users\magnu\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.056,=E:\DelphiUtbildning\JSONDemo\CustomerClass.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.923,E:\Delphi\JSONDemo\Server\RESTServerDemo.dproj=C:\Users\magnu\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.110,=C:\Users\magnu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.938,E:\Delphi\JSONDemo\Server\MainUnit.pas=C:\Users\magnu\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.157,=C:\Users\magnu\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.234,E:\DelphiUtbildning\JSONDemo\CommonUtils.pas=E:\DelphiUtbildning\JSONDemo\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.171,=C:\Users\Magnus\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.394,=C:\Users\Magnus\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.760,=E:\DelphiUtbildning\JSONDemo\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.007,E:\DelphiUtbildning\JSONDemo\MainUnit.dfm=C:\Users\Magnus\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.830,=E:\Delphi\JSONDemo\Client\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.402,=E:\DelphiUtbildning\JSONDemo\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.670,=C:\Users\Magnus\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.007,E:\DelphiUtbildning\JSONDemo\MainUnit.pas=C:\Users\Magnus\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.101,E:\Delphi\JSONDemo\JSONDemo.dproj=E:\Delphi\JSONDemo\JSONClientDemo.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.653,E:\DelphiUtbildning\JSONDemo\Transactions.pas=E:\DelphiUtbildning\JSONDemo\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.656,E:\DelphiUtbildning\JSONDemo\JSONDemo.dproj=C:\Users\Magnus\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.354,=E:\Delphi\JSONDemo\Transactions.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.429,E:\Delphi\JSONDemo\Transactions.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.867,E:\Delphi\JSONDemo\CustomerClass.pas=E:\Delphi\JSONDemo\Client\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
